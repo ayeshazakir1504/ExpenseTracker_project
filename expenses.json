@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2024-04-12",
+        "amount": 300.0,
+        "category": "Shopping",
+        "description": "buy some dresses"
+    },
+    {
+        "date": "2023-09-17",
+        "amount": 120000.0,
+        "category": "Bills",
+        "description": "house bills"
+    }
+]
